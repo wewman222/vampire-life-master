@@ -1,0 +1,14 @@
+/.yarn/**
+/**/node_modules
+/**/*.bundle.*
+/**/*.chunk.*
+/**/*.hot-update.*
+**.lock
+**.log
+**.json
+**.svg
+**.scss
+**.md
+**.css
+**.txt
+**.woff2
